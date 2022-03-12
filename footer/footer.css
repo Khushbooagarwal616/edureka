@@ -1,0 +1,38 @@
+.three-part {
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  border-radius: 10px;
+}
+.line {
+  border: 2px solid #141468;
+  border-radius: 20px;
+}
+
+.footer {
+  background-color: #141468;
+  color: white;
+  border-bottom: 1px solid white;
+}
+.image img {
+  height: 4rem;
+}
+button.btn {
+  background-color: white;
+  font-size: 12px;
+  color: darkblue;
+}
+.footer p {
+  font-size: 14px;
+  color: #9b9797;
+}
+.icon .fa {
+  font-size: 25px;
+}
+select#floatingSelectGrid {
+  background-color: #141468;
+  color: white;
+  border: none;
+}
+.data {
+  border: 1px solid;
+  border-radius: 8px;
+}

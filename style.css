@@ -1,0 +1,229 @@
+img {
+    /* height: 7rem; */
+    width: 7rem;
+}
+
+i {
+    top: 11px;
+    left: 17px;
+}
+.formsearch {
+    width: 14rem;
+}
+.search {
+    font-size: small;
+}
+.nav-link {
+    color: black;
+    font-weight: 300;
+    font-size: medium;
+}
+.navbutton {
+    font-weight: 300;
+}
+/* body1 */
+.body1{
+    border-bottom: 4px solid white;
+}
+.container2 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 4rem;
+}
+.pera1 {
+    text-transform: capitalize;
+    font-size: small;
+    font-weight: 300;
+}
+.button1 {
+    background: red;
+    font-size: small;
+    color: white;
+}
+.button2 {
+    background: white;
+    font-size: small;
+    color: red;
+}
+.button3 {
+    background: white;
+    font-weight: 500;
+}
+/*  */
+.row3content {
+    text-transform: capitalize;
+    padding-top: 1rem;
+    font-weight: 400;
+}
+/*  */
+.pera2 {
+    margin-right: 2rem;
+}
+.row4pera {
+    font-weight: 400;
+    font-size: 15px;
+    color: #3c3939;
+}
+.row4pera2 {
+    font-size: 15px;
+    color: #3c3939;
+}
+/*  */
+.buttonenroll {
+    background: royalblue;
+    width: 28rem;
+    color: white;
+}
+.enroll1 {
+    font-size: small;
+    margin-bottom: 0;
+    margin-top: 0.5rem;
+}
+.enroll2 {
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+/*  */
+.row5 {
+    padding-top: 3rem;
+    font-size: large;
+    color: #3c3939;
+}
+.row5pera1 {
+    text-align: center;
+    font-weight: 500;
+}
+.row5pera2 {
+    text-align: center;
+
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+/* body2 */
+
+.body2{
+    background: lightblue;
+}
+/* .container3{
+    padding-left: 5rem;
+    padding-right: 5rem;
+} */
+.row6{
+    text-align: center;
+    padding-top: 3rem;
+    color: #3c3939;
+}
+/*  */
+.row7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row7pera1{
+    text-align: center;
+    font-size: xx-large;
+    color: #3c3939;
+    font-weight: 400;
+}
+.downlode{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: small;
+}
+
+.text-img-div img{
+    width: 35px;
+
+}
+
+.text-img-div p{
+    font-size: 24px;
+}
+
+.text-img-div a{
+    font-size:12px ;
+}
+
+.rowstar{
+    margin-right: 19px;
+}
+
+.heart-icon{
+    color: red;
+}
+
+.share-icon{
+    color: grey;
+}
+.pdf{
+    width: 3rem;
+}
+.border-button{
+    border: 1px solid lightgray;
+    font-size: small;
+}
+.img-width{
+   width: 2rem;
+}
+.topic{
+    font-size: medium;
+    color: #3c3939;
+}
+.version{
+    color: gray;
+    font-size: small;
+}
+.watch{
+    font-size: 10px;
+}
+.text-success{
+    font-size: 20px;
+}
+.border-color{
+    border: 1px solid lightgray;
+    border-radius: 0.55rem;
+}
+.color-assign{
+    color: gray;
+}
+
+.three-part {
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    border-radius: 10px;
+  }
+  .line {
+    border: 2px solid #141468;
+    border-radius: 20px;
+  }
+/* ********************foter***************************8 */
+.footer {
+    background-color: #141468;
+    color: white;
+    border-bottom: 1px solid white;
+  }
+  .image img {
+    height: 4rem;
+  }
+  button.btn {
+    background-color: white;
+    font-size: 12px;
+    color: darkblue;
+  }
+  .footer p {
+    font-size: 14px;
+    color: #9b9797;
+  }
+  .icon .fa {
+    font-size: 25px;
+  }
+  select#floatingSelectGrid {
+    background-color: #141468;
+    color: white;
+    border: none;
+  }
+  .data {
+    border: 1px solid;
+    border-radius: 8px;
+  }
